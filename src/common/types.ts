@@ -1,5 +1,5 @@
 /*
- * @Author: zusheng
+ * @Author: Yuki
  * @Date: 2022-04-11 22:59:54
  * @LastEditTime: 2022-04-17 10:37:26
  * @Description: typescript的复用的类型、接口定义

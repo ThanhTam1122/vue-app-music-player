@@ -1,13 +1,13 @@
 /*
- * @Author: zusheng
+ * @Author: Yuki
  * @Date: 2022-04-10 23:39:53
  * @LastEditTime: 2022-04-16 18:44:57
  * @Description: api文件
  * @FilePath: \vite-music-player\src\common\api.ts
  */
-const API_ROOT = process.env.NODE_ENV === 'development' ? 'https://music.zusheng.club' : 'https://music.zusheng.club'
+const API_ROOT = process.env.NODE_ENV === 'development' ? 'https://music.Yuki.club' : 'https://music.Yuki.club'
 
-// 'https://netease-cloud-music-f4u1p2cjb-imzusheng.vercel.app'
+// 'https://netease-cloud-music-f4u1p2cjb-imYuki.vercel.app'
 
 export default {
   // 未分类

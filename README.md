@@ -4,9 +4,9 @@
 
 为了实现一个播放器展开的动效花了不少功夫, 这个效果还算满意
 
-[体验一下 demo(建议手机)](https://demo.zusheng.club/music)
+[体验一下 demo(建议手机)](https://demo.Yuki.club/music)
 
-![图片](http://cdn.zusheng.club/screenshots/blog/vite-music.gif)
+![图片](http://cdn.Yuki.club/screenshots/blog/vite-music.gif)
 
 项目中有一些值得琢磨的点记录一下：
 
@@ -239,5 +239,5 @@ export const compressionImage = imgSrc => {
 
 emmmmm...这个找到了一个非常简单的方法，用`if ('ontouchstart' in window)` 判断是否是移动端，移动端监听`touchmove`，PC 端监听`mousemove`
 
-[我的博客](https://blog.zusheng.club)
+[我的博客](https://blog.Yuki.club)
 

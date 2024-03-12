@@ -1,5 +1,5 @@
 <!--
-Author: zusheng
+Author: Yuki
 Date: 2022-04-18 12:37:17
 LastEditTime: 2022-04-21 18:03:32
 Description: 底部tabbar
@@ -7,7 +7,7 @@ FilePath: \vite-music-player\src\components\TheTabbar.vue
 -->
 
 <!--
-Author: zusheng
+Author: Yuki
 Date: 2022-04-12 11:17:48
 LastEditTime: 2022-04-16 21:22:07
 Description: 左侧导航栏

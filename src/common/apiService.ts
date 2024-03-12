@@ -1,5 +1,5 @@
 /*
- * @Author: zusheng
+ * @Author: Yuki
  * @Date: 2022-04-10 23:43:21
  * @LastEditTime: 2022-04-17 00:13:04
  * @Description: API服务
@@ -8,7 +8,7 @@
 import axios from 'axios'
 import { store } from '@/store'
 
-axios.defaults.baseURL = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : 'https://music.zusheng.club'
+axios.defaults.baseURL = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : 'https://music.Yuki.club'
 axios.defaults.headers['X-Requested-With'] = 'XMLHttpRequest'
 axios.defaults.headers.post['Content-Type'] = 'application/json'
 

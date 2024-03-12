@@ -1,7 +1,7 @@
 import { watchEffect } from "vue"
 
 <!--
-Author: zusheng
+Author: Yuki
 Date: 2022-04-15 00:29:14
 LastEditTime: 2022-04-16 20:05:20
 Description: 人像展示卡片
